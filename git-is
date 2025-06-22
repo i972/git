@@ -3,5 +3,9 @@
     - Backup 백업
     - Collaboration 협업
 
-2. Version 버전관리
-    - 저장소 만들기
+2. Version
+    - 변경된 내용을 기록
+    - 변경 이전으로 될돌릴수 있다
+
+3. Backup
+    - github 저장소에 백업가능
